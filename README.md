@@ -5,7 +5,7 @@ Face Detection and Recognition Software for Primates
 Matlab with Image Processing and Computer Vision toolboxes (tested on Matlab 2017b release)
 
 ## PrimateFaces_Viewer
-###Program for testing face detection settings
+### Program for testing face detection settings
 - On start up you will be asked for location of folder containing detection models
 
 ### Main Screen
