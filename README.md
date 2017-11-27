@@ -9,7 +9,8 @@ Face Detection and Recognition Software for Primates
 - For main program type primatefaces_main in command line
 
 ### Standalone Application (no Matlab licence required)
-- Download one of the two releases (either the viewer or the main)
+- Download one of the two releases (either the viewer or the main - can be found under release tab)
+- Also download Detection_Models folder
 - Run installer - you will be asked to download and install the Matlab runtime
 - The program will appear in the application folder (double click to run)
 - Program may take some time to load
